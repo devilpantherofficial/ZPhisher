@@ -5,7 +5,7 @@
 
 * `apt install git php openssh curl -y`
 
-* `git clone https://github.com/devilpantherofficial/ZPhisher`
+* `git clone https://github.com/devilpantherofficial/ZPhisher.git`
 
 * `cd ZPhisher`
 
